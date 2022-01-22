@@ -1,0 +1,26 @@
+{
+    "course" : {
+        "id" : null,
+        "name" : "No course",
+        "start" : null,
+        "end" : null,
+        "capacity" : 0,
+        "min_threshold" : 0,
+        "attendee_count" : 0,
+        "course_offering" : {
+            "value" : null,
+            "display_value" : null
+        },
+        "state": {
+            "value" : null,
+            "display_value" : null
+        },
+        "assigned_to" : {
+            "value" : null,
+            "display_value" : null
+
+        }
+    },
+
+    "students" : []
+}

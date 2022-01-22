@@ -1,0 +1,11 @@
+Create new client:
+
+first_name:Joanne
+last_name:Warner
+name:Joanne Warner
+client_id:joanne.warner
+email:jwarner@example.com
+phone:111-455-6666
+active:true
+
+Help information can be found at http://my.help.example.com

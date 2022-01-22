@@ -1,0 +1,18 @@
+{
+  "first_name" : "Chuck",
+  "last_name" : "Tomasi",
+  "score" : 95.5,
+  "active" : true,
+  "office" : {
+      "street" : "2225 Lawson Lane",
+      "city" : "Santa Clara",
+      "state" : "CA"
+  }
+  "videos" : [
+      "15648",
+      "85022",
+      "29b16",
+      "1c2e9",
+      "43512"
+  ]
+}

@@ -1,0 +1,17 @@
+<customers>
+  <customer>
+    <name>Berkin Corp.</name>
+    <city>Nashua</city>
+    <state>NH</state>
+  </customer>
+ <customer>
+    <name>Covaria</name>
+    <city>Phoenix</city>
+    <state>AZ</state>
+  </customer>
+  <customer>
+    <name>Destinex</name>
+    <city>Flint</city>
+    <state>MI</state>
+  </customer>
+</customer>

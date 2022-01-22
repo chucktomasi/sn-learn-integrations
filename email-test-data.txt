@@ -1,0 +1,12 @@
+client_id:bjorn.client
+name:Bjorn Client
+email:bjorn.client@example.com
+first_name:Bjorn
+last_name:Client
+phone:+44 0332 022 111
+active:true
+
+--*Chuck Tomasi*
+--Earthling, Father, Husband, IT professional, Podcaster, Author, Martial
+Artist
+--http://www.chucktomasi.com
